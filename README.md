@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]!
+# Hi there 👋 I'm Reed!
 
 I'm a Computational Linguistics student with a passion for full-stack development, NLP, and AI-driven projects. I’m actively learning and contributing to the world of **web development**, **data science**, and **large language models (LLMs)**. 🚀
 
@@ -33,12 +33,6 @@ I'm a Computational Linguistics student with a passion for full-stack developmen
 - **English**: Fluent
 - **German**: B2
 
----
-
-## 🧩 Projects
-Here are a few projects I’m working on or recently contributed to:
-- **[Project Name 1](link-to-project)** - Brief description of the project.
-- **[Project Name 2](link-to-project)** - Another brief description.
 
 ---
 
