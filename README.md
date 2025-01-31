@@ -30,15 +30,11 @@ I'm a Computational Linguistics student with a passion for full-stack developmen
 - **English**: Fluent
 - **German**: B2
 
+---
 
----## 📊 GitHub Activity
-
-### **Commit History**  
-![GitHub Contributions](https://ghchart.rshah.org/whitney-house)  
-
-### **Detailed Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whitney-house&include_all_commits=true&count_private=true&show_icons=true&theme=merko&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whitney-house&layout=compact&theme=merko&hide_border=true)
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=whitney-house&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whitney-house&layout=compact&theme=radical) i want to change this to a more fancy one, to show all of my commits
 
 ---
 
