@@ -2,7 +2,7 @@
 
 I'm a Computational Linguistics student with a passion for full-stack development, NLP, and AI-driven projects. I’m actively learning and contributing to the world of **web development**, **data science**, and **large language models (LLMs)**. 🚀
 
-## 👨‍💻 Languages & Technologies
+## 👩‍💻 Languages & Technologies
 **Languages**:  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge) 
