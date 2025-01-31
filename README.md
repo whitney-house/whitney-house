@@ -28,7 +28,7 @@ I'm a Computational Linguistics student with a passion for full-stack developmen
 ## 🌍 Languages
 - **Chinese**: Native
 - **English**: Fluent
-- **German**: B2
+- **German**: Intermediate
 
 ---
 
