@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Reed!
 
-I'm a Computational Linguistics student with a passion for full-stack development, NLP, and AI-driven projects. I’m actively learning and contributing to the world of **web development**, **data science**, and **large language models (LLMs)**. 🚀
+I'm a Computational Linguistics student with a passion for full-stack development, NLP, and AI-driven projects. I’m actively learning and contributing to the world of **web development**, **data science**, and **large language models (LLMs)**. 🐈
 
 ## 👩‍💻 Languages & Technologies
 **Languages**:  
@@ -35,6 +35,7 @@ I'm a Computational Linguistics student with a passion for full-stack developmen
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=whitney-house&show_icons=true&theme=radical)
+![GitHub Repo stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=social)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whitney-house&layout=compact&theme=radical)
 
 ---
