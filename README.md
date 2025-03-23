@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Reed!
 
-I'm a Computational Linguistics student with a passion for full-stack development, NLP, and AI-driven projects. I’m actively learning and contributing to the world of **web development**, **data science**, and **large language models (LLMs)**. 🐈
+I'm a Computational Linguistics student with a passion for full-stack development, NLP, and AI-driven projects. I’m actively learning and contributing to the world of **web development**, **deep learning**, and **large language models (LLMs)**. 🐈
 
 ## 👩‍💻 Languages & Technologies
 **Languages**:  
@@ -41,7 +41,6 @@ I'm a Computational Linguistics student with a passion for full-stack developmen
 ## 🎯 Goals
 - **Full-Stack Developer**: Building proficiency in both front-end and back-end development.
 - **NLP and LLM Expert**: Deepening knowledge in natural language processing and generative AI.
-- **Data-Driven Solutions**: Leveraging data analysis for insightful, impactful solutions.
 
 ---
 
