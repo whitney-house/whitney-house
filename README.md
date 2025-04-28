@@ -4,5 +4,5 @@ I'm a Computational Linguistics student with a passion for full-stack developmen
 
 #
 
-![Wang Weiting's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Reed's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitney-house&show_icons=true&theme=radical)
 
